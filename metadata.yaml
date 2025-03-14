@@ -1,0 +1,54 @@
+_repo: The-secret-commonwealth-of-elves-fauns-fairies_75485
+_version: 0.0.1
+alternative_title: The secret commonwealth of elves, fauns and fairies
+contributor:
+  illustrator:
+    agent_name: Bogle, W. Lockhart (William Lockhart)
+    aliases:
+    - Bogle, William Lockhart
+    - Bogle, Lockhart
+    birthdate: 1857
+    deathdate: 1900
+    gutenberg_agent_id: '58021'
+    url: http://www.gutenberg.org/2009/agents/58021
+creator:
+  author:
+    agent_name: Kirk, Robert
+    deathdate: 1692
+    gutenberg_agent_id: '58020'
+    url: http://www.gutenberg.org/2009/agents/58020
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Kirk_(folklorist)
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: https://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75485'
+language: en
+pgterms:marc904: https://archive.org/details/Kirk1893CommonwealthElves
+pgterms:marc905: 20201213082730kirk
+pgterms:marc906: '1893'
+pgterms:marc907: uk
+production_note: Jens Sadowski, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $auk :$bDavid Nutt, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bibliothèque de Carabas, vol. 8.
+subjects:
+- !lcsh 'Parapsychology'
+- !lcsh 'Clairvoyance'
+- !lcsh 'Fairies'
+- !lcc 'BF'
+- GITenberg
+title: The secret commonwealth of elves, fauns & fairies
+url: http://www.gutenberg.org/ebooks/75485
