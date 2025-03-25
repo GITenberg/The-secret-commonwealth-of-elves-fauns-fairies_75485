@@ -11,6 +11,9 @@ contributor:
     deathdate: 1900
     gutenberg_agent_id: '58021'
     url: http://www.gutenberg.org/2009/agents/58021
+covers:
+- cover_type: archival
+  image_path: 75485-h/images/cover.jpg
 creator:
   author:
     agent_name: Kirk, Robert
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: https://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75485#The-secret-commonwealth-of-elves-fauns-fairies
 gutenberg_issued: '2025-02-27'
 gutenberg_type: Text
 identifiers:
